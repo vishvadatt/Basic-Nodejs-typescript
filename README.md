@@ -24,6 +24,7 @@ Step 3: Configure TypeScript
 Create a tsconfig.json file:
 npx tsc --init
 
+
     Edit tsconfig.json to include the following settings:
         {
             "compilerOptions": {
